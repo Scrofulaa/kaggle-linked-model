@@ -1,0 +1,1 @@
+ Simple model artifact for Kaggle Linked Model Creator badge.
